@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://anjul.github.io/posts/hello-world/</loc>
+    <loc>https://anjuls.github.io/posts/hello-world/</loc>
     <lastmod>2019-03-02T19:04:42+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anjul.github.io/</loc>
-    <lastmod>2019-03-02T19:04:42+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://anjul.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://anjul.github.io/posts/</loc>
+    <loc>https://anjuls.github.io/</loc>
     <lastmod>2019-03-02T19:04:42+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://anjul.github.io/tags/</loc>
+    <loc>https://anjuls.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anjuls.github.io/posts/</loc>
+    <lastmod>2019-03-02T19:04:42+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anjuls.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
