@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anjul&#39;s Notes</title>
-    <link>https://anjul.dev/</link>
+    <link>https://anjul.github.io/</link>
     <description>Recent content on Anjul&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Mar 2019 19:04:42 +1100</lastBuildDate>
     
-	<atom:link href="https://anjul.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anjul.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://anjul.dev/posts/hello-world/</link>
+      <link>https://anjul.github.io/posts/hello-world/</link>
       <pubDate>Sat, 02 Mar 2019 19:04:42 +1100</pubDate>
       
-      <guid>https://anjul.dev/posts/hello-world/</guid>
+      <guid>https://anjul.github.io/posts/hello-world/</guid>
       <description>Hi World! I have setup this blog after various stints which covered personal and Oracle database stuff but for a long time, I have been away from the blogging. The reason is primarily getting busy with family life and switching roles. Last week, I came across my twitter timeline bidding .dev domains and I got excited to reserve my own anjul.dev last night. I intent to call this my permanent home on the Internet.</description>
     </item>
     
