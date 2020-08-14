@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://anjuls.github.io/</loc>
-    <lastmod>2020-02-08T01:32:56+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjuls.github.io/categories/</loc>
-    <lastmod>2020-02-08T01:32:56+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjuls.github.io/categories/personal/</loc>
-    <lastmod>2020-02-08T01:32:56+11:00</lastmod>
+    <loc>https://anjuls.github.io/writings/</loc>
+    <lastmod>2020-08-14T18:17:27+05:30</lastmod>
   </url>
   
   <url>
@@ -25,6 +15,16 @@
   <url>
     <loc>https://anjuls.github.io/posts/reflection-on-2019/</loc>
     <lastmod>2020-02-08T01:32:56+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anjuls.github.io/about/</loc>
+    <lastmod>2019-03-02T21:54:58+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anjuls.github.io/</loc>
+    <lastmod>2019-03-02T21:54:58+11:00</lastmod>
   </url>
   
   <url>
