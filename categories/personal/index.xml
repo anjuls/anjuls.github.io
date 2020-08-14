@@ -1,24 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Personal on Anjul Sahu</title>
-    <link>https://anjuls.github.io/categories/personal/</link>
-    <description>Recent content in Personal on Anjul Sahu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2020 01:32:56 +1100</lastBuildDate>
-    
-	<atom:link href="https://anjuls.github.io/categories/personal/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Reflection on 2019</title>
-      <link>https://anjuls.github.io/posts/reflection-on-2019/</link>
-      <pubDate>Sat, 08 Feb 2020 01:32:56 +1100</pubDate>
-      
-      <guid>https://anjuls.github.io/posts/reflection-on-2019/</guid>
-      <description>Welcome to the new year 2020. I want to take a pause to reflect on the last year on personal and professional front. The year was nearly flat and steady. There were no surprises, spikes like last year especially on the personal side. Personally, I have enjoyed the whole year with the family and friends in Melbourne. 2019 was also a year of change. I changed many projects this year unlike one in past one decade.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>personal on Anjul Sahu</title>
+		<link>https://anjuls.github.io/categories/personal/</link>
+		<description>Recent content in personal on anjuls.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>All views are personal and I reserve the full rights on content published on this blog.</copyright>
+		<lastBuildDate>Sat, 08 Feb 2020 01:32:56 +1100</lastBuildDate>
+		
+		<atom:link href="https://anjuls.github.io/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Reflection on 2019</title>
+			<link>https://anjuls.github.io/posts/reflection-on-2019/</link>
+			<pubDate>Sat, 08 Feb 2020 01:32:56 +1100</pubDate>
+			
+			<guid>https://anjuls.github.io/posts/reflection-on-2019/</guid>
+			<description>
+				
+				Welcome to the new year 2020. I want to take a pause to reflect on the last year on personal and professional front. The...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>
