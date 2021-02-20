@@ -1,53 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anjul Sahu</title>
-    <link>https://anjul.dev/</link>
-    <description>Recent content on Anjul Sahu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Sat, 08 Feb 2020 01:32:56 +1100</lastBuildDate>
+    <title>Anjul Sahu </title>
+    <link>anjul.dev/</link>
+    <language>en-us</language>
+    <author>Anjul Sahu</author>
+    <rights>(C) 2020</rights>
+    <updated>2020-02-08 01:32:56 &#43;1100 &#43;1100</updated>
+
     
-	<atom:link href="https://anjul.dev/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Reflection on 2019</title>
+        <link>anjul.dev/blog/reflection-on-2019/</link>
+        <pubDate>Sat, 08 Feb 2020 01:32:56 &#43;1100</pubDate>
+        <author>Anjul Sahu</author>
+        <guid>anjul.dev/blog/reflection-on-2019/</guid>
+        <description>&lt;p&gt;Welcome to the new year 2020.
+I want to take a pause to reflect on the last year on personal and professional front.
+The year was nearly flat and steady. There were no surprises, spikes like last year especially on the personal side.
+Personally, I have enjoyed the whole year with the family and friends in Melbourne.  2019 was also a year of change.
+I changed many projects this year unlike one in past one decade. I got enough time to learn new things and travel this year :-).&lt;/p&gt;
+&lt;h2 id=&#34;spiritual-journey-to-brij&#34;&gt;Spiritual Journey to Brij&lt;/h2&gt;
+&lt;p&gt;While returning back to Melbourne, we spent few days in the Brij - the land of Krishna and Radha. I always wanted to see this place and when I went there, I realized I should have visited much earlier. Vibes of this region is life changing.  Sharing some photos of the trip.&lt;/p&gt;
+&lt;h2 id=&#34;avyans-toddler-phase&#34;&gt;Avyan&amp;rsquo;s Toddler Phase&lt;/h2&gt;
+&lt;p&gt;My son &lt;em&gt;Avyan&lt;/em&gt; has turned 2 in March. It was a great moment when he joins the toddler rank. As a parent, we are slightly more relaxed now as we don&amp;rsquo;t need to worry much about his regular feeds and frequent nightly wake up calls.&lt;br&gt;
+&lt;img src=&#34;avyan-2nd-bday.jpg&#34; alt=&#34;Avyan&amp;rsquo;s 2nd Bday&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tasmania-once-again&#34;&gt;Tasmania Once Again&lt;/h2&gt;
+&lt;p&gt;Second trip to Tassy, this time in Autumn with friends.
+&lt;img src=&#34;tasmania-01.jpg&#34; alt=&#34;Tasmania Highlands&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ghar-wali-diwali&#34;&gt;Ghar Wali Diwali&lt;/h2&gt;
+&lt;p&gt;Avyan&amp;rsquo;s first Diwali celebration at home.&lt;/p&gt;
+&lt;h2 id=&#34;pachmarhi-visit&#34;&gt;Pachmarhi Visit&lt;/h2&gt;
+&lt;h2 id=&#34;thailand-trip&#34;&gt;Thailand Trip&lt;/h2&gt;
+&lt;p&gt;Me and my wife were planning for the Thailand trip for a long time. This was the year when finally it was materialized. We visited Bangkok, Ayuthaya and Chiang Mai (Northern Thailand) region and focus was mainly visiting the cultural and religious places rather than going to southern beaches.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;thailand01.jpg&#34; alt=&#34;Wat Phra Singh&#34;&gt;
+&lt;img src=&#34;thailand02.jpg&#34; alt=&#34;Our Thai Dress&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;things-i-liked&#34;&gt;Things I liked&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;I really liked the &lt;em&gt;khao-soi&lt;/em&gt; noodles in the northern Thailand.&lt;/li&gt;
+&lt;li&gt;The culture and obviously all the Wats.&lt;/li&gt;
+&lt;li&gt;Food is great, try new stuff everytime and you will be amazed with the variety.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;things-i-didnt-liked&#34;&gt;Things I didn&amp;rsquo;t liked&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;The people are not helpful especially when you speak english and ask for directions. They will say &amp;lsquo;yes&amp;rsquo; to whatever you say which can be confusing.&lt;/li&gt;
+&lt;li&gt;The public transport is very diverse and you need to take separate ticket for metro, BTS and buses. This makes it very expensive and time consuming.&lt;/li&gt;
+&lt;li&gt;You need to bargain everywhere.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;some-tips-or-learnings&#34;&gt;Some Tips or Learnings&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Avoid floating markets in Bangkok as they are chaotic, overcrowded and has became touristy.&lt;/li&gt;
+&lt;li&gt;Always Bargain. Start with half price and also get some idea by Googling or asking few more people.&lt;/li&gt;
+&lt;li&gt;Many tours in the city are traps. So be concious. I was fallen in a trap after an advise of a monk in Temple who asked me to go this tour. Later I found that tour has a bad reputation.&lt;/li&gt;
+&lt;li&gt;Buy from local vendors instead of Mall.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;our-itinerary&#34;&gt;Our Itinerary&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bangkok - 1 day
+&lt;ul&gt;
+&lt;li&gt;The Grand Palace&lt;/li&gt;
+&lt;li&gt;Wat Arun&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ayuthaya - 1 day&lt;/li&gt;
+&lt;li&gt;Chiang Mai - 3.5 days
+&lt;ul&gt;
+&lt;li&gt;Doi Inathon National Park&lt;/li&gt;
+&lt;li&gt;Karen Village, Doi Suthep&lt;/li&gt;
+&lt;li&gt;Chiang Mai City&lt;/li&gt;
+&lt;li&gt;Night Bazaars, Markets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bangkok - 1 day
+&lt;ul&gt;
+&lt;li&gt;The Chatuchak Weekend Market&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;christmas-break&#34;&gt;Christmas Break&lt;/h2&gt;
+&lt;p&gt;One again we spent beatiful holidays in Victoria with friends.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;luna-park.jpg&#34; alt=&#34;We are at Luna Park&#34;&gt;&lt;/p&gt;
+</description>
+      </item>
     
+      <item>
+        <title>Hello World</title>
+        <link>anjul.dev/blog/hello-world/</link>
+        <pubDate>Sat, 02 Mar 2019 19:04:42 &#43;1100</pubDate>
+        <author>Anjul Sahu</author>
+        <guid>anjul.dev/blog/hello-world/</guid>
+        <description>&lt;p&gt;Hi World! I have setup this blog after various stints which covered personal and Oracle database stuff but for a long time, I have been away from the blogging.  The reason is primarily getting busy with family life and switching roles. Last week, I came across my twitter timeline bidding &lt;code&gt;.dev&lt;/code&gt; domains and I got excited to reserve my own &lt;code&gt;anjul.dev&lt;/code&gt; last night. I intent to call this my permanent home on the Internet. I would cover topics on containers, Kubernetes, Linux, and generally anything which excites me.&lt;/p&gt;
+&lt;p&gt;Please feel free to connect and follow this blog. I will make sure, I don&amp;rsquo;t post boring, spammy posts.&lt;/p&gt;
+&lt;p&gt;Anjul&lt;/p&gt;
+</description>
+      </item>
     
-    <item>
-      <title>Writings</title>
-      <link>https://anjul.dev/writings/</link>
-      <pubDate>Fri, 14 Aug 2020 18:17:27 +0530</pubDate>
-      
-      <guid>https://anjul.dev/writings/</guid>
-      <description>Below are some of the published articles on the Internet
- Packaging Cloud Native Applications with Gravity - InfraCloud Logging in Kubernetes: EFK vs PLG - InfraCloud, CNCF Blogs Service Mesh Comparison: Istio vs Linkerd - InfraCloud, DZone The Ten Commandments of Container Security - InfraCloud Oracle Database Backup in Cloud-Native World - InfraCloud Github Actions Demystified - Co-Author InfraCloud Autonomous Log Monitoring and Incident Detection with Zebrium - InfraCloud  </description>
-    </item>
-    
-    <item>
-      <title>Reflection on 2019</title>
-      <link>https://anjul.dev/blog/reflection-on-2019/</link>
-      <pubDate>Sat, 08 Feb 2020 01:32:56 +1100</pubDate>
-      
-      <guid>https://anjul.dev/blog/reflection-on-2019/</guid>
-      <description>Welcome to the new year 2020. I want to take a pause to reflect on the last year on personal and professional front. The year was nearly flat and steady. There were no surprises, spikes like last year especially on the personal side. Personally, I have enjoyed the whole year with the family and friends in Melbourne. 2019 was also a year of change. I changed many projects this year unlike one in past one decade.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://anjul.dev/about/</link>
-      <pubDate>Sat, 02 Mar 2019 21:54:58 +1100</pubDate>
-      
-      <guid>https://anjul.dev/about/</guid>
-      <description>Hi, I am Anjul Sahu, based out of Indore, India. I am a generalist working as solution architect and focussed on cloud-native technologies. In past, I have worked as dba, devops engineer, and technical architect. I also have deep interest in emerging technologies, leadership, entrepreneurship, and programming. I love travel, food, startups, investing and talking to friends.
-Please follow me on Twitter and LinkedIn.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://anjul.dev/blog/hello-world/</link>
-      <pubDate>Sat, 02 Mar 2019 19:04:42 +1100</pubDate>
-      
-      <guid>https://anjul.dev/blog/hello-world/</guid>
-      <description>Hi World! I have setup this blog after various stints which covered personal and Oracle database stuff but for a long time, I have been away from the blogging. The reason is primarily getting busy with family life and switching roles. Last week, I came across my twitter timeline bidding .dev domains and I got excited to reserve my own anjul.dev last night. I intent to call this my permanent home on the Internet.</description>
-    </item>
-    
+
   </channel>
 </rss>
