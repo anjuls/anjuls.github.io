@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>anjul.dev/writings/</loc>
+    <loc>https://anjul.dev/writings/</loc>
     <lastmod>2020-08-14T18:17:27+05:30</lastmod>
   </url>
   
   <url>
-    <loc>anjul.dev/</loc>
+    <loc>https://anjul.dev/</loc>
     <lastmod>2020-02-08T01:32:56+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>anjul.dev/blog/</loc>
+    <loc>https://anjul.dev/blog/</loc>
     <lastmod>2020-02-08T01:32:56+11:00</lastmod>
   </url>
   
   <url>
-    <loc>anjul.dev/blog/personal/</loc>
+    <loc>https://anjul.dev/blog/personal/</loc>
     <lastmod>2020-02-08T01:32:56+11:00</lastmod>
   </url>
   
   <url>
-    <loc>anjul.dev/blog/reflection-on-2019/</loc>
+    <loc>https://anjul.dev/reflection-on-2019/</loc>
     <lastmod>2020-02-08T01:32:56+11:00</lastmod>
   </url>
   
   <url>
-    <loc>anjul.dev/about/</loc>
+    <loc>https://anjul.dev/about/</loc>
     <lastmod>2019-03-02T21:54:58+11:00</lastmod>
   </url>
   
   <url>
-    <loc>anjul.dev/blog/hello-world/</loc>
+    <loc>https://anjul.dev/hello-world/</loc>
     <lastmod>2019-03-02T19:04:42+11:00</lastmod>
   </url>
   

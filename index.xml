@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anjul Sahu </title>
-    <link>anjul.dev/</link>
+    <link>https://anjul.dev/</link>
     <language>en-us</language>
     <author>Anjul Sahu</author>
     <rights>(C) 2020</rights>
@@ -10,10 +10,10 @@
     
       <item>
         <title>Reflection on 2019</title>
-        <link>anjul.dev/blog/reflection-on-2019/</link>
+        <link>https://anjul.dev/reflection-on-2019/</link>
         <pubDate>Sat, 08 Feb 2020 01:32:56 &#43;1100</pubDate>
         <author>Anjul Sahu</author>
-        <guid>anjul.dev/blog/reflection-on-2019/</guid>
+        <guid>https://anjul.dev/reflection-on-2019/</guid>
         <description>&lt;p&gt;Welcome to the new year 2020.
 I want to take a pause to reflect on the last year on personal and professional front.
 The year was nearly flat and steady. There were no surprises, spikes like last year especially on the personal side.
@@ -84,10 +84,10 @@ I changed many projects this year unlike one in past one decade. I got enough ti
     
       <item>
         <title>Hello World</title>
-        <link>anjul.dev/blog/hello-world/</link>
+        <link>https://anjul.dev/hello-world/</link>
         <pubDate>Sat, 02 Mar 2019 19:04:42 &#43;1100</pubDate>
         <author>Anjul Sahu</author>
-        <guid>anjul.dev/blog/hello-world/</guid>
+        <guid>https://anjul.dev/hello-world/</guid>
         <description>&lt;p&gt;Hi World! I have setup this blog after various stints which covered personal and Oracle database stuff but for a long time, I have been away from the blogging.  The reason is primarily getting busy with family life and switching roles. Last week, I came across my twitter timeline bidding &lt;code&gt;.dev&lt;/code&gt; domains and I got excited to reserve my own &lt;code&gt;anjul.dev&lt;/code&gt; last night. I intent to call this my permanent home on the Internet. I would cover topics on containers, Kubernetes, Linux, and generally anything which excites me.&lt;/p&gt;
 &lt;p&gt;Please feel free to connect and follow this blog. I will make sure, I don&amp;rsquo;t post boring, spammy posts.&lt;/p&gt;
 &lt;p&gt;Anjul&lt;/p&gt;

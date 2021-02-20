@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: anjul.dev/sitemap.xml
+Sitemap: https://anjul.dev/sitemap.xml
